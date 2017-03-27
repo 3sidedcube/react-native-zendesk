@@ -1,5 +1,17 @@
 {
   "name": "react-native-zendesk",
-  "version": "0.0.1",
-  "keywords": "react-native"
+  "version": "0.8.1",
+  "description": "A ZenDesk SDK React Native wrapper.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3sidedcube/react-native-zendesk.git"
+  },
+  "keywords": [
+    "zendesk",
+    "react",
+    "react-native"
+  ],
+  "author": "Simon Mitchell",
+  "license": "MIT",
+  "main": "index.js"
 }

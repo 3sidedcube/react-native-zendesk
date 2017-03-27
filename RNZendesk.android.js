@@ -9,7 +9,7 @@
 var warning = require('fbjs/lib/warning');
 
 var RNZendesk = {
-  test: function() {
+  submitSupport: function() {
     warning('Not yet implemented for Android.');
   }
 };
